@@ -1,0 +1,12 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
